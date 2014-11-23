@@ -18,3 +18,7 @@ With an alias:
 `alias translate="node /usr/local/bin/translate.js"`
 
 `translate this is an example`
+
+## TODO
+
+Realtime translate
