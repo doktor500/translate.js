@@ -1,0 +1,8 @@
+{
+  "name": "translate",
+  "description": "A command line util to translate from English to Spanish",
+  "author": "David Molinero",
+  "dependencies": {
+    "optimist": ">= 0.6.1"
+  }
+}
