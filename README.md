@@ -2,12 +2,11 @@
 
 A command line util to translate from English to Spanish using google translate
 
-Google Translate API is only available as a paid service based on usage, with this util, it is possible to use it for free 
-
 ## Prerequisites (OS X)
 
 * Install node & npm: `brew install node`
 * Install optimist: `npm -g install optimist`
+* Install google-translate-api `npm -g install google-translate-api`
 
 ## Usage
 
@@ -15,7 +14,7 @@ Google Translate API is only available as a paid service based on usage, with th
 
 With an alias: 
 
-`alias translate="node /usr/local/bin/translate.js"`
+`alias translate="node translate.js"`
 
 `translate this is an example`
 

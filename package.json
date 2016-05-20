@@ -1,8 +1,11 @@
 {
-  "name": "translate",
-  "description": "A command line util to translate from English to Spanish",
-  "author": "David Molinero",
+  "name": "google-translate",
+  "description": "Google translate app",
+  "version": "0.0.1",
+  "private": true,
   "dependencies": {
-    "optimist": ">= 0.6.1"
-  }
+    "google-translate-api": "^2.0.3",
+    "optimist": "^0.6.1"
+  },
+  "devDependencies": {}
 }
