@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "google-translate-api": "^2.0.3",
+    "google-translate-api": "^2.3.0",
     "optimist": "^0.6.1"
   },
   "devDependencies": {}
